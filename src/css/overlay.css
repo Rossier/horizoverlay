@@ -181,6 +181,10 @@
   background:  rgba(150, 90, 144, 0.7);
 }
 
+.row.job-healer.Sge .data-items:before {
+  background: rgba(128, 160, 240, 0.7);
+}
+
 .row.job-dps.Pct .data-items:before {
   background: rgba(252, 146, 225, 0.7);
 }
