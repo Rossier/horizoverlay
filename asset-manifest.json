@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/horizoverlay/static/css/main.f5cf31ed.css",
+    "main.css": "/horizoverlay/static/css/main.8a3dbb3c.css",
     "main.js": "/horizoverlay/static/js/main.3910461e.js",
     "static/media/mog.png": "/horizoverlay/static/media/mog.ac9775c8097840fbe8a5.png",
     "static/media/rpr.png": "/horizoverlay/static/media/rpr.f4c8904d6ae85cf44081.png",
     "static/media/sge.png": "/horizoverlay/static/media/sge.ed6d4372da983cc483a6.png",
     "index.html": "/horizoverlay/index.html",
-    "main.f5cf31ed.css.map": "/horizoverlay/static/css/main.f5cf31ed.css.map",
+    "main.8a3dbb3c.css.map": "/horizoverlay/static/css/main.8a3dbb3c.css.map",
     "main.3910461e.js.map": "/horizoverlay/static/js/main.3910461e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5cf31ed.css",
+    "static/css/main.8a3dbb3c.css",
     "static/js/main.3910461e.js"
   ]
 }
