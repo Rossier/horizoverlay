@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/bsides/horizoverlay/issues"
   },
-  "homepage": "https://speedy321.github.io/horizoverlay/",
+  "homepage": ".",
   "dependencies": {
     "raven-js": "^3.24.0",
     "react": "^16.3.0",

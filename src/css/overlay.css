@@ -177,6 +177,18 @@
     background: rgba(255, 240, 220, 0.7);
 }
 
+.row.job-dps.Rpr .data-items:before {
+  background:  rgba(150, 90, 144, 0.7);
+}
+
+.row.job-dps.Pct .data-items:before {
+  background: rgba(252, 146, 225, 0.7);
+}
+
+.row.job-dps.Vpr .data-items:before {
+  background: rgba(16, 130, 16, 0.7);
+}
+
 .row .damage-percent-bg {
   height: 4px;
   background: rgba(0, 0, 0, 0.3);
